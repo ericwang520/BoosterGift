@@ -1,0 +1,7 @@
+name: BoosterGift
+version: '${project.version}'
+main: me.yiyi1234.boostergift.BoosterGift
+api-version: 1.16
+depend: [DiscordSRV]
+commands:
+  BoosterGift:

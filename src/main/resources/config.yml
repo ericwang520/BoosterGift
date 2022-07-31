@@ -1,0 +1,13 @@
+discord-bot-token: token
+booster-role-id: boosterroleid
+owner-discord-id: ownerID
+booster-sendmsg: 您沒有與遊戲內的角色綁定，如果想領取 Discord 加成福利，請私訊服主。
+booster-cancel: 您的加成結束了，如果還想要繼續領取加成禮包，請補上您的加成。
+linkedcommands:
+  - give %player% apple
+  - give %player% apple
+  - give %player% apple
+unlinkedcommands:
+  - give %player% apple
+  - give %player% apple
+  - give %player% apple
